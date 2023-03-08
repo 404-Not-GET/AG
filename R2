@@ -1,1 +1,1 @@
-TEST
+[FBAN/FB4A;FBAV/214.0.0.43.83;FBBV/147376229;FBDM/{density=1.5,width=2400,height=1080};FBLC/en_US;FBCR/Kodular;FBMF/;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3085;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
